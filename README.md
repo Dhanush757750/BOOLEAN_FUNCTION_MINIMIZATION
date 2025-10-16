@@ -53,7 +53,8 @@ assign f2=((~y & z)|( w & y )|(x & y));
 
 endmodule
 ```
-Developed by: RegisterNumber:212224040066
+# Developed by: 
+# RegisterNumber:212224040066
 
 
 **RTL realization**
